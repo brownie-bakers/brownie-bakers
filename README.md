@@ -1,3 +1,3 @@
-### Welcome to Brownie Bakers 👋
+### Welcome to Velvet Cakes 👋
 
-This is Brownie Bakers Developer Account for managing project repositories.
+This is Velvet Cakes Developer Account for managing project repositories.
